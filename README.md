@@ -1,6 +1,12 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Shu-Matsumoto&show_icons=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shu-Matsumoto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Matsumoto)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Matsumoto" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Matsumoto&count_private=true&show_icons=true" />
+</a>
+
 
 <!--
 **Shu-Matsumoto/Shu-Matsumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
